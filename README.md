@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**jhuniorLC/jhuniorLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jhunior, yeah that is my real name like a Junior, I still consider that I am Junior in many things but I hope to be better in some things some day.
 
-Here are some ideas to get you started:
+Today I work like Site Reliability Engineer, I still learning better practices to code and identified issues in systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to learn more to receive and share knowlodge, I learn a lot of things with wonderful people that coloborated every time in my life and too people that I don´t know that shared knowlodge in differents platforms, and I hope to do the same some day.
+
+Remember, everybody some day were Juniors.
+
+I hope one day to work on some contribution for you or with you.
+
+Have a nice day!
